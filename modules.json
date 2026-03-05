@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn2_2",
+    "module_label": "XFN.2.2 - Billing & Payment Synchronization",
+    "module_title": "Billing & Payment Synchronization",
+    "module_slug": "billing_and_payment_synchronization",
+    "app_code": "xfn2",
+    "app_label": "XFN 2 - Revenue Cycle Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn2_1",
+    "module_label": "XFN.2.1 - Lead-to-Order Integration",
+    "module_title": "Lead-to-Order Integration",
+    "module_slug": "lead_to_order_integration",
+    "app_code": "xfn2",
+    "app_label": "XFN 2 - Revenue Cycle Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn2_3",
+    "module_label": "XFN.2.3 - Revenue Recognition Logging",
+    "module_title": "Revenue Recognition Logging",
+    "module_slug": "revenue_recognition_logging",
+    "app_code": "xfn2",
+    "app_label": "XFN 2 - Revenue Cycle Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
